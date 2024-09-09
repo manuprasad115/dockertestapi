@@ -6,3 +6,5 @@
 /TestApi/.vs/TestApi
 /TestApi/TestApi/bin/Debug/net8.0
 /TestApi/TestApi/obj
+/TestApi/TestApi/obj/Debug/net8.0/TestApi.AssemblyInfo.cs
+/TestApi/TestApi/obj/Debug/net8.0/TestApi.AssemblyInfoInputs.cache
