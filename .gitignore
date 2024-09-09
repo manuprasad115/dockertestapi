@@ -5,3 +5,4 @@
 /.vs
 /TestApi/.vs/TestApi
 /TestApi/TestApi/bin/Debug/net8.0
+/TestApi/TestApi/obj
